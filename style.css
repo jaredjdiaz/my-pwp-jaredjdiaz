@@ -1,16 +1,18 @@
 body {
-    font-family: cursive;
+    font-family: SansSerif;
 }
 
 
 .navbar {
-    background-color: bisque;
+    background-color: #ffdfb2;
     padding:.6rem 1rem;
 }
 
 
 .headshot-marissa {
-    max-width: 90%;
+    max-width: 98%;
     border-radius: 75%;
-    padding: 3px;
+    padding: 2px;
+    border: 4px solid #ffdfb2;
 }
+
