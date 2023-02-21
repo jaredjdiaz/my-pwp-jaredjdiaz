@@ -27,4 +27,11 @@ body {
 .bg-dark-subtle {
     background-color: #fcdea847 !important;
 }
+.bg-secondary {
+    background-color: #fcdea847 !important;
+}
+
+footer a {
+    color: #a9a4a7;
+}
 
