@@ -1,5 +1,10 @@
 body {
     font-family: SansSerif;
+
+    font-size: larger;
+}
+
+h2 {
     font-weight: bolder;
 }
 
@@ -28,7 +33,7 @@ body {
     background-color: #fcdea847 !important;
 }
 .bg-secondary {
-    background-color: #fcdea847 !important;
+    background-color: #dbdbdb47 !important;
 }
 
 footer a {
